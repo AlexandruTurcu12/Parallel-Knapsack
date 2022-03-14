@@ -1,5 +1,3 @@
-Turcu Alexandru, grupa 333AA (fac laboratorul cu grupa 335CC)
-
 La crearea threadurilor in main, am folosit ca parametru functia run_genetic_algorithm. Deoarece functia trebuie
 ca acum sa aiba doar parametrul *arg, am adaugat intr-o structura in genetic_algorithm.h parametrii initiali.
 Pe langa acestia (objects, object_count, generations_count si sack_capacity), structura mai contine ID-ul
